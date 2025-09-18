@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-<a href="https://github.com/jyotiyadav94">
+<a href="https://github.com/deepakyadavdx">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=deepakyadavdx&show_icons=true&theme=tokyonight"/>
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakyadavdx&theme=tokyonight&show_icons=true"/>
   
